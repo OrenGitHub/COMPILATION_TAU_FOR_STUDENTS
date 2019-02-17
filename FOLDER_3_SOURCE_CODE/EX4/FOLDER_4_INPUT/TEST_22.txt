@@ -4,7 +4,6 @@ void g(int n){
         return;
     }
     g(n-1);
-  }
 }
 
 void main() {
